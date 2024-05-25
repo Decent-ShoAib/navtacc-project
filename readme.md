@@ -16,7 +16,7 @@ Step 1
 
 Step 2
 
-  Open the MongoDB Compass and import the shopping.products.json file which will is avaiable in the project folder
+  Open the MongoDB Compass and import the shopping.products.json file which is avaiable in the project folder
 
 Step 3
 ```bash
