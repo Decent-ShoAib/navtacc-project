@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "665083cfd1b12ce01c8c12f0"
+  },
+  "name": "Ladies Branded",
+  "price": 3999,
+  "image": "1716552655854-959284667-2_d153273c-a525-4bc5-acb2-90bf6350e402_1200x1200.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66508411d1b12ce01c8c1304"
+  },
+  "name": "lady suit buthic",
+  "price": 6999,
+  "image": "1716552721373-920389005-ladies-suit.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650843cd1b12ce01c8c1308"
+  },
+  "name": "Jeans wear",
+  "price": 5999,
+  "image": "1716552764916-469129968-lady suit.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66508466d1b12ce01c8c130c"
+  },
+  "name": "Mens jacket",
+  "price": 2999,
+  "image": "1716552806820-909673271-images.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66508495d1b12ce01c8c1310"
+  },
+  "name": "Mens Shirt and Jeans ",
+  "price": 4000,
+  "image": "1716552853419-724301477-images (1).jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665084d9d1b12ce01c8c131c"
+  },
+  "name": "Mens Suit ",
+  "price": 7999,
+  "image": "1716552921569-912144031-Grey_Jeans_with_Blazer_26502dda-41eb-448b-adbe-ee1709a2e8ea_600x600.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6651b0ce3f448a453a0b4aa2"
+  },
+  "name": "watch collection",
+  "price": 27,
+  "image": "1716629710919-494040271-s-l1200.webp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6651b1883f448a453a0b4aa8"
+  },
+  "name": "Preety watch",
+  "price": 25,
+  "image": "1716629896751-178377431-61WSQ-MpsyL._UL1100__zoom.jpg",
+  "__v": 0
+}]
